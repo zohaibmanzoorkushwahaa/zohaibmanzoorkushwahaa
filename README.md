@@ -5,7 +5,6 @@
 **iOS Developer · AI-Native Engineer · 7+ Years of Experience**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zohaibmanzoorkushwaha/)
-[![Profile Views](https://komarev.com/ghpvc/?username=zohaibmanzoorkushwaha&style=flat-square&color=0A66C2)](https://github.com/zohaibmanzoorkushwaha)
 
 *Building apps that make a difference — one clean commit at a time.*
 
@@ -19,6 +18,8 @@ I'm a passionate **iOS Developer** with 7+ years of hands-on experience crafting
 
 - 🍎 &nbsp; Specialist in **Swift**, **SwiftUI**, and **UIKit**
 - 🤖 &nbsp; Building **AI-native iOS experiences** with on-device ML and LLM integrations
+- 🎙️ &nbsp; Creator of **Wishper** — a personal AI speech-to-text transcription app
+- 👥 &nbsp; Built **People App**, a full HRMS suite for enterprise workforce management
 - 📱 &nbsp; Advocate for clean architecture and thoughtful UX
 - 🌱 &nbsp; Currently exploring **Jetpack Compose**, **GraphQL**, and **CoreML**
 - 🧠 &nbsp; Passionate about **mentoring** and fostering creativity
@@ -68,6 +69,8 @@ I'm a passionate **iOS Developer** with 7+ years of hands-on experience crafting
 
 | Project | Description | Tech Highlights |
 |--------|-------------|-----------------|
+| **Wishper** 🎙️ | Personal project — an AI-powered speech-to-text transcription app that converts voice to accurate text in real-time, built entirely from scratch | Speech framework, Whisper API, SwiftUI, CoreML |
+| **People App** 👥 | Full-featured HRMS iOS app covering employee profiles, leave & attendance, payroll, onboarding, org chart, team directory, and HR workflows | REST, Core Data, MVVM, Firebase, SwiftUI |
 | **BizCardScanner** | Real-time business card scanner using OCR and Vision framework to detect and extract text from cards | Vision, CoreML, OCR |
 | **LoyiCard Stamper** | Business card management app with digital stamping and privacy policy workflows | UIKit, Firebase |
 | **Volocopter** | Contributed to apps for a passenger drone platform — flight booking and pilot flight monitoring | WebSockets, Real-time Data |
@@ -104,6 +107,8 @@ I'm actively building **AI-native iOS apps** — apps where intelligence isn't a
 ## 🏅 Certifications & Achievements
 
 - 🍎 &nbsp; **7+ Years** professional iOS development experience
+- 🎙️ &nbsp; **Wishper** — independently designed and shipped a real-time AI speech-to-text iOS app
+- 👥 &nbsp; Architected **People App** — a full HRMS suite covering payroll, attendance, onboarding & org management
 - 🚁 &nbsp; Contributed to **Volocopter** — a world-leading electric air taxi platform
 - 🏥 &nbsp; Built HIPAA-aware features for **healthcare** mobile platforms
 - 🧠 &nbsp; **AI-native** app development across vision, NLP, and LLM domains
