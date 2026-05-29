@@ -1,6 +1,6 @@
 # Hi, I'm Zohaib Manzoor Kushwaha 👋
 
-Welcome to my GitHub profile! I'm an iOS Developer with over 6 years of experience in creating innovative, user-focused apps. I have expertise in Swift, UIKit, SwiftUI, and the latest iOS frameworks. I'm passionate about building applications that make a difference and am always exploring new technologies.
+Welcome to my GitHub profile! I'm an iOS Developer with over 7 years of experience in creating innovative, user-focused apps. I have expertise in Swift, UIKit, SwiftUI, and the latest iOS frameworks. I'm passionate about building applications that make a difference and am always exploring new technologies.
 
 ## 🔧 Technologies & Tools
 
